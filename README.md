@@ -1,10 +1,8 @@
 # DefiChain Explorer - Defiscan
 
-[![Join the chat at https://gitter.im/defichain/defiscan](https://badges.gitter.im/defichain/defiscan.svg)](https://gitter.im/defichain/defiscan?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 Defiscan is a BlockExplorer for **DefiChain**, built with VueJS, Nuxt and MongoDB. Defiscan allows you to explore and search the **DefiChain** for transactions, addresses, tokens, prices and other activities taking place on **DefiChain**.
 
-A demo instance connected to the **DefiChain testnet** is available at [scan.testnet.defichain.com](https://scan.testnet.defichain.com/).
+A demo instance connected to the **DefiChain testnet** will be available soon
 
 ## Current Features
 - Browse blocks, transactions, accounts and contracts
@@ -13,11 +11,11 @@ A demo instance connected to the **DefiChain testnet** is available at [scan.tes
 - Display the current state of verified contracts
 - Responsive layout
 
-Missing a feature? Please request it by creating a new [Issue](https://github.com/defichain/defiscan/issues).
+Missing a feature? Please request it by creating a new [Issue](https://github.com/DeFi-Chain/DeFi-Scan/issues).
 
 ## Usage notes
 
-The explorer is still under heavy development, if you find any problems please create [an issue](https://github.com/defichain/defiscan/issues) or prepare [a pull request](https://github.com/defichain/defiscan/pulls).
+The explorer is still under heavy development, if you find any problems please create [an issue](https://github.com/DeFi-Chain/DeFi-Scan/issues) or prepare [a pull request](https://github.com/DeFi-Chain/DeFi-Scan/pulls).
 
 ## Getting started
 

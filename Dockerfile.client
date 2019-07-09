@@ -1,6 +1,6 @@
 FROM node:8-alpine
 
-LABEL maintainer="etienne@defichain.com"
+LABEL maintainer="dev@defichain.net"
 
 ENV HOST 0.0.0.0
 
