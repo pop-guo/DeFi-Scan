@@ -5,7 +5,7 @@ info:
   description: DefiScan APIs
   license:
     name: Github
-    url: 'https://github.com/defichain/defiscan'
+    url: 'https://github.com/DeFi-Chain/DeFi-Scan'
 tags:
   - name: Accounts
     description: Accounts API

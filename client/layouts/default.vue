@@ -196,7 +196,7 @@
                         md="6"
                         class="defi-footer__copyright">
                         <p>DefiScan {{ (new Date()).getFullYear() }} - <a
-                            :href="`https://github.com/defichain/defiscan/releases/tag/v${version}`">
+                            :href="`https://github.com/DeFi-Chain/DeFi-Scan/releases/tag/v${version}`">
                             v{{ version }}</a>
 
                             <code class="text-muted copyright__code">
@@ -231,7 +231,7 @@
                             </li>
                             <li class="list-inline-item">
                                 <a
-                                    href="https://github.com/defichain/"
+                                    href="https://github.com/DeFi-Chain/"
                                     target="_blank">
                                     <i class="fa fa-github"/>
                                 </a>
