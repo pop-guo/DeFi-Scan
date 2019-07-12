@@ -217,14 +217,14 @@
                             </li>
                             <li class="list-inline-item">
                                 <a
-                                    href="https://www.facebook.com/defichainofficial"
+                                    href="https://www.facebook.com/defichain"
                                     target="_blank">
                                     <i class="fa fa-facebook"/>
                                 </a>
                             </li>
                             <li class="list-inline-item">
                                 <a
-                                    href="https://twitter.com/DefiChainANN"
+                                    href="https://twitter.com/Defi_Chain"
                                     target="_blank">
                                     <i class="fa fa-twitter"/>
                                 </a>
