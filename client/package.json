@@ -55,7 +55,7 @@
     "lodash.mergewith": "^4.6.2",
     "lodash.template": "^4.5.0",
     "mem": "^5.1.1",
-    "node-sass": "^4.8.3",
+    "node-sass": "^4.13.1",
     "sass-loader": "^7.0.1"
   },
   "engines": {
